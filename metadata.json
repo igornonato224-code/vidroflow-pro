@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VidroFlow Pro",
+  "description": "O sistema definitivo para gestão de vidraçarias: da medição em campo à instalação final, com inteligência artificial para evitar erros e otimizar orçamentos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
